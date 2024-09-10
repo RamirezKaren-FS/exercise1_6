@@ -1,3 +1,6 @@
+Next.js projected created and modified by Karen J Ramirez. Uses github pages to host it live and the repo to hold all changes and commits. 
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
