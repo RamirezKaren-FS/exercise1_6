@@ -32,8 +32,6 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      domain: "ramirezkaren-fs.github.io"
-      baseurl: "/jekyll_1_6exercise"
       url:  "https://ramirezkaren-fs.github.io"
 
     runs-on: ubuntu-latest
