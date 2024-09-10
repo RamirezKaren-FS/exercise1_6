@@ -17,7 +17,7 @@ export default function Home() {
           <li>
             Get started by editing <code>src/app/page.js</code>.
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Was able to creat the Next.js app and make changes to page. Now working on getting github repo attached and later deployed through pages.</li>
         </ol>
 
         <div className={styles.ctas}>
@@ -47,6 +47,7 @@ export default function Home() {
         </div>
       </main>
       <footer className={styles.footer}>
+        <h4>Created and Modified by Karen J Ramirez</h4>
         <a
           href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           target="_blank"
