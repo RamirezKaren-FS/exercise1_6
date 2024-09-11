@@ -25,9 +25,9 @@ export default function RootLayout({ children }) {
         <nav>
           <h2>HomePage</h2>
         <Link href="/"></Link>
-        <Link href="/postOne"></Link>
-        <Link href="/postTwo"></Link>
-        <Link href="/postThree"></Link>   
+        <Link href="/postOne">Post One </Link>
+        <Link href="/postTwo">Post Two</Link>
+        <Link href="/postThree">Post Three</Link>   
         </nav>
         {children}
       </body>
