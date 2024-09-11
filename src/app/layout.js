@@ -23,9 +23,8 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <nav>
-          <h2>HomePage</h2>
-        <Link href="/"></Link>
-        <Link href="/postOne">Post One </Link>
+        <Link href="/">HomePage</Link>
+        <Link href="/postOne">Taking a Breath... How relaxing and stepping away helped me problem solve. </Link>
         <Link href="/postTwo">Post Two</Link>
         <Link href="/postThree">Post Three</Link>   
         </nav>
