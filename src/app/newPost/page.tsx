@@ -1,6 +1,7 @@
 import React from "react";
 import NavBar from "../component/NavBar";
 import Footer from "../component/Footer";
+import Image from "next/image";
 
 export default function NewPost() {
     return <><NavBar></NavBar><Image
