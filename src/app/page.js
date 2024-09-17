@@ -8,6 +8,10 @@ export default function Home() {
         <h1>Karen's Post </h1>
         <div className={styles.ctas}>
         <ol>
+        <li>
+          NEW POST  
+          </li>
+          <Link href='/newPost'className={styles.secondary} >Read the Post</Link>
           <li>
           Taking a Breath... How relaxing and stepping away helped me problem solve.  
           </li>
