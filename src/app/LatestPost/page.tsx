@@ -4,7 +4,7 @@ import Footer from "../component/Footer";
 import Image from "next/image";
 import image from './logo192.png'
 
-export default function NewPost() {
+export default function LatestPost() {
     return <><NavBar></NavBar><Image
         src={image}
         alt="Picture of woman writing on whiteboard"
