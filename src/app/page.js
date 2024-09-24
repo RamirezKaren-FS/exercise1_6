@@ -9,6 +9,10 @@ export default function Home() {
         <div className={styles.ctas}>
         <ol>
         <li>
+          LATEST POST  
+          </li>
+          <Link href='/LatestPost'className={styles.secondary} >Read the Post</Link>
+        <li>
           NEW POST  
           </li>
           <Link href='/newPost'className={styles.secondary} >Read the Post</Link>
