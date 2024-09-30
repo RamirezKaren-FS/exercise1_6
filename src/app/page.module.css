@@ -8,6 +8,10 @@
   font-family: var(--font-geist-sans);
 }
 
+.image{
+  width: 550;
+  height:350;
+}
 @media (prefers-color-scheme: dark) {
   .page {
     --gray-rgb: 255, 255, 255;
